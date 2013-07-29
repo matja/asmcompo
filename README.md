@@ -1,3 +1,5 @@
+The assembly-language themed #asm channel on EFnet used to hold competitions every so often with various themes.  The offical website is [here](http://www.haxor.me.uk/asmcompo/).  These are my entries :
+
 
 ### ballzup.asm
 
