@@ -1,6 +1,5 @@
 The assembly-language themed #asm channel on EFnet used to hold competitions every so often with various themes.  The offical website is [here](http://www.haxor.me.uk/asmcompo/).  These are my entries :
 
-
 ### ballzup.asm
 
 #### For #asm compo 5 in 2001
@@ -9,6 +8,7 @@ Theme : Make a DOS demo/game/effect, interactive or not, in 1024 bytes or less.
 
 I made an animated vector balls effect, using per-pixel depth testing, so the balls merged together quite nicely.  I generate 628 balls, one for each 0.01 radians, and apply a function to transform them to the screen.  I animate it by adding a linear component and interpolating between the functions over time.  In this I just have a random 'cloud' and a toroidal knot function, I wanted to add more but didn't have space in the end.
 
+![ballzup capture](https://github.com/matja/asmcompo/raw/master/ballzup.gif)
 
 ### hashasmtro.cpp
 
